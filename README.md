@@ -2,7 +2,7 @@
 
 My name is Berk. 
 
-:mortar_board: I have graduated from the Faculty of Law and working as a Lawyer in İstanbul at the moment. :balance_scale:
+:mortar_board: I have graduated from the Faculty of Law and after I have worked 4 years as a Lawyer :balance_scale:
 
 :video_game: After long years of playing games I decided to make my own games and I learned C# language and Unity Game Engine. Then I decided to be a game developer to make games I have dreamed of. 
 
