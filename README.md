@@ -4,7 +4,7 @@ My name is Berk.
 
 :mortar_board: I have graduated from the Faculty of Law and after I have worked 4 years as a Lawyer :balance_scale:
 
-:video_game: After long years of playing games I decided to make my own games and I learned C# language and Unity Game Engine. Then I decided to be a game developer to make games I have dreamed of. 
+:video_game: I was a gamer entire my life. Then I learned C# language and Unity Game Engine. Then I decided to be a game developer to make games I have dreamed of. 
 
 It's like pressing the "New Game" button in real life!
 
@@ -14,10 +14,7 @@ On this road to being Game Dev, I completed several online courses and Certifica
 
 2- Patika.dev Unity Learn Path (Completed May 2022) [![Certificate Badge](https://img.shields.io/badge/-certificate-success)](https://app.patika.dev/certificates/PzpRQf3)
 
-Then I have been selected for Patika.dev & Google Casual Game Development Bootcamp (June- August 2022). I am still continuing to Bootcamp. After completing this Bootcamp I am planning to work professionally as a Game Developer.
-
-:dart: My Next Target: Graduating from Patika.dev & Google Casual Game Development Bootcamp.
-
+Then I have been selected for Patika.dev & Google Casual Game Development Bootcamp (June- August 2022). I am still continuing to Bootcamp. 
 
 You can find some of my projects and some of my prototypes at my repos.
 
