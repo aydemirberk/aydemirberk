@@ -23,8 +23,6 @@ For further information;
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berk-aydemir/)
 &nbsp;
 
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/beerkaydemir)
-
 
 ![flat](https://github-profile-trophy.vercel.app/?username=aydemirberk&theme=flat)
 
