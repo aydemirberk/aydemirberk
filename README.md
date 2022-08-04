@@ -8,7 +8,7 @@ My name is Berk.
 
 It's like pressing the "New Game" button in real life!
 
-On this road to being Game Dev, I completed several online courses and Certificated programs to improve myself. And I am still taking new courses and making practice. The following are the most important Certificates for me;
+On this road to being Game Dev, I completed several online courses and Certificated programs to improve myself. And I am still taking new courses and making practice. Some of my certificates are as follws;
 
 1- Unity Junior Programmer (Completed May 2022) [![Certificate Badge](https://img.shields.io/badge/-certificate-success)](https://www.credly.com/badges/8bf0b499-493a-43e2-944b-14ab761f00d8?source=linked_in_profile)
 
