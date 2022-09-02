@@ -8,15 +8,7 @@ My name is Berk.
 
 It's like pressing the "New Game" button in real life!
 
-On this road to being Game Dev, I completed several online courses and Certificated programs to improve myself. And I am still taking new courses and making practice. Some of my certificates are as follws;
-
-1- Unity Junior Programmer (Completed May 2022) [![Certificate Badge](https://img.shields.io/badge/-certificate-success)](https://www.credly.com/badges/8bf0b499-493a-43e2-944b-14ab761f00d8?source=linked_in_profile)
-
-2- Patika.dev Unity Learn Path (Completed May 2022) [![Certificate Badge](https://img.shields.io/badge/-certificate-success)](https://app.patika.dev/certificates/PzpRQf3)
-
-Then I have been selected for Patika.dev & Google Casual Game Development Bootcamp (June- August 2022). I am still continuing to Bootcamp. 
-
-You can find some of my projects and some of my prototypes at my repos.
+On this road to being Game Dev, I completed several online courses and Certificated programs to improve myself.Then I have graduated from Patika.dev & Google Casual Game Development Bootcamp (June- August 2022).
 
 For further information;
 
