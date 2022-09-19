@@ -12,7 +12,7 @@ On this road to being Game Dev, I completed several online courses and Certifica
 
 For further information;
 
-Check out our latest game made for Mağara Game Jam 2022 (Gaming İstanbul- GIST)
+Check out our latest game made in 3 days for Mağara Game Jam 2022 (Gaming İstanbul- GIST)
 https://www.youtube.com/watch?v=vWdbOoTDQ3Y
 
 
