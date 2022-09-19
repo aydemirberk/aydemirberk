@@ -13,8 +13,7 @@ On this road to being Game Dev, I completed several online courses and Certifica
 For further information;
 
 Check out our latest game made in 3 days for Mağara Game Jam 2022 (Gaming İstanbul- GIST)
-Office Syndrome Disorder
-https://www.youtube.com/watch?v=vWdbOoTDQ3Y
+Office Syndrome Disorder- https://youtu.be/vWdbOoTDQ3Y
 
 Also other games;
 Halfling Run - https://youtu.be/f8otBTVTyAg
