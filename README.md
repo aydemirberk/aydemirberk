@@ -12,6 +12,10 @@ On this road to being Game Dev, I completed several online courses and Certifica
 
 For further information;
 
+Check out our latest game made for Mağara Game Jam 2022 (Gaming İstanbul- GIST)
+https://www.youtube.com/watch?v=vWdbOoTDQ3Y
+
+
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berk-aydemir/)
 &nbsp;
 
