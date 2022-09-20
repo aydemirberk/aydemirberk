@@ -19,6 +19,7 @@ Office Syndrome Disorder- https://youtu.be/vWdbOoTDQ3Y
 Also other games;
 
 Halfling Run - https://youtu.be/f8otBTVTyAg
+Merge Beasts- https://youtu.be/pdTDM6Y4Tpk
 
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berk-aydemir/)
