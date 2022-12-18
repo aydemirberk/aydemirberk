@@ -8,18 +8,15 @@ My name is Berk.
 
 It's like pressing the "New Game" button in real life!
 
-On this road to being Game Dev, I completed several online courses and Certificated programs to improve myself.Then I have graduated from Patika.dev & Google Casual Game Development Bootcamp (June- August 2022).
+Some Games;
 
-For further information;
+Color Master https://youtu.be/oduuBy5W-LY
 
-Check out our latest game made in 3 days for Mağara Game Jam 2022 (Gaming İstanbul- GIST)
+Love is Blind https://youtu.be/OzjjXv_MD_w
 
 Office Syndrome Disorder- https://youtu.be/vWdbOoTDQ3Y
 
-Also other games;
-
 Halfling Run - https://youtu.be/f8otBTVTyAg
-
 
 Merge Beasts- https://youtu.be/pdTDM6Y4Tpk
 
