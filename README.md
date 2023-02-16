@@ -10,6 +10,10 @@ It's like pressing the "New Game" button in real life!
 
 Some Games;
 
+God of Battle https://youtu.be/88Kp1hQHQdE
+
+Hot Cars Idle https://youtu.be/szXgI5ZijeY
+
 Color Master https://youtu.be/oduuBy5W-LY
 
 Love is Blind https://youtu.be/OzjjXv_MD_w
