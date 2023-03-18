@@ -8,21 +8,7 @@ My name is Berk.
 
 It's like pressing the "New Game" button in real life!
 
-Some Games;
-
-God of Battle https://youtu.be/88Kp1hQHQdE
-
-Hot Cars Idle https://youtu.be/szXgI5ZijeY
-
-Color Master https://youtu.be/oduuBy5W-LY
-
-Love is Blind https://youtu.be/OzjjXv_MD_w
-
-Office Syndrome Disorder- https://youtu.be/vWdbOoTDQ3Y
-
-Halfling Run - https://youtu.be/f8otBTVTyAg
-
-Merge Beasts- https://youtu.be/pdTDM6Y4Tpk
+Google Play Store Portfolio : https://play.google.com/store/apps/dev?id=4657298620437588892
 
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berk-aydemir/)
